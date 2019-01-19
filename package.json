@@ -2,7 +2,7 @@
   "name": "personal_website",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://Omkar-Waingankar.github.io/personal_website",
+  "homepage" : "http://Omkar-Waingankar.github.io/Personal_Website",
   "dependencies": {
     "jquery": "^3.3.1",
     "react": "^16.7.0",
