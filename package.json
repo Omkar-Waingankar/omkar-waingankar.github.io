@@ -2,7 +2,7 @@
   "name": "personal_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Omkar-Waingankar.github.io/",
+  "homepage": "http://omkar-waingankar.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
