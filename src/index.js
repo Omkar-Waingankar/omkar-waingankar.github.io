@@ -4,9 +4,10 @@ import ReactDOM from 'react-dom';
 import "./index.css"
 import App from './App';
 import $ from "jquery";
+import { BrowserRouter as Router } from "react-router-dom";
 // import fadeQueue from "jquery";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Router basename={process.env.PUBLIC_URL}><App /></Router>, document.getElementById('root'));
 
 $('.intro-scroll').click(function(e){
       var jump = $(this).attr('href');

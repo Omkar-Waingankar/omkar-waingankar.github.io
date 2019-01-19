@@ -7,7 +7,7 @@ function Title() {
 				<h1 className="name">Omkar Waingankar</h1>
 				<h2 className="name-title">UC-Berkeley</h2>
 
-				<a href="#introduction hideme" className="more-button intro-scroll">
+				<a href="#introduction" className="more-button intro-scroll">
 					More!
 				</a>
 			</div>
